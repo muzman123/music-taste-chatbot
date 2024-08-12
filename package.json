@@ -16,7 +16,9 @@
     "openai": "^4.55.4",
     "react": "^18",
     "react-dom": "^18",
-    "react-icons": "^5.2.1"
+    "react-icons": "^5.2.1",
+    "react-markdown": "^9.0.1",
+    "remark-breaks": "^4.0.0"
   },
   "devDependencies": {
     "eslint": "^8",
